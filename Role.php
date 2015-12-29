@@ -1,9 +1,9 @@
 <?php
 
-namespace Pingpong\Trusty;
+namespace Trieu\Trusty;
 
 use Illuminate\Database\Eloquent\Model;
-use Pingpong\Trusty\Traits\SlugableTrait;
+use Trieu\Trusty\Traits\SlugableTrait;
 
 class Role extends Model
 {

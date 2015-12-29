@@ -1,6 +1,6 @@
 <?php
 
-namespace Pingpong\Trusty\Traits;
+namespace Trieu\Trusty\Traits;
 
 use Illuminate\Support\Str;
 

@@ -4,8 +4,8 @@ return [
 
     'model' => [
         'user' => 'App\User',
-        'role' => 'Pingpong\Trusty\Role',
-        'permission' => 'Pingpong\Trusty\Permission',
+        'role' => 'Trieu\Trusty\Role',
+        'permission' => 'Trieu\Trusty\Permission',
     ],
 
 ];

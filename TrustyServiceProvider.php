@@ -1,6 +1,6 @@
 <?php
 
-namespace Pingpong\Trusty;
+namespace Trieu\Trusty;
 
 use Illuminate\Support\ServiceProvider;
 

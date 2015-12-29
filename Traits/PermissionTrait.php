@@ -1,8 +1,8 @@
 <?php
 
-namespace Pingpong\Trusty\Traits;
+namespace Trieu\Trusty\Traits;
 
-use Pingpong\Trusty\Facades\Trusty;
+use Trieu\Trusty\Facades\Trusty;
 
 trait PermissionTrait
 {

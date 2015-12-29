@@ -1,18 +1,17 @@
 {
-  "name": "pingpong/trusty",
+  "name": "trieu/trusty",
   "description": "Roles and Permissions for Laravel 4",
   "keywords": [
     "roles",
     "permissions",
     "laravel",
-    "pingpong",
     "trieu"
   ],
   "license": "BSD-3-Clause",
   "authors": [
     {
-      "name": "Pingpong Labs",
-      "email": "pingpong.labs@gmail.com"
+      "name": "Trieu Labs",
+      "email": "Trieu.labs@gmail.com"
     }
   ],
   "require": {
@@ -28,7 +27,7 @@
   },
   "autoload": {
     "psr-4": {
-      "Pingpong\\Trusty\\": ""
+      "Trieu\\Trusty\\": ""
     }
   },
   "minimum-stability": "stable"

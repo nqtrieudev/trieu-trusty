@@ -1,9 +1,9 @@
 <?php
 
-namespace Pingpong\Trusty\Traits;
+namespace Trieu\Trusty\Traits;
 
 use Illuminate\Support\Collection;
-use Pingpong\Trusty\Role;
+use Trieu\Trusty\Role;
 
 trait TrustyTrait
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Pingpong\Trusty\Facades;
+namespace Trieu\Trusty\Facades;
 
 use Illuminate\Support\Facades\Facade;
 

@@ -1,10 +1,10 @@
 <?php
 
-namespace Pingpong\Trusty;
+namespace Trieu\Trusty;
 
 use Illuminate\Auth\Guard;
 use Illuminate\Routing\Router;
-use Pingpong\Trusty\Exceptions\PermissionDeniedException;
+use Trieu\Trusty\Exceptions\PermissionDeniedException;
 
 class Trusty
 {
