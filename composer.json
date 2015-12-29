@@ -5,13 +5,13 @@
     "roles",
     "permissions",
     "laravel",
-    "trieu"
+    "trieu Nguyen"
   ],
   "license": "BSD-3-Clause",
   "authors": [
     {
-      "name": "Trieu Labs",
-      "email": "Trieu.labs@gmail.com"
+      "name": "Trieu Nguyen",
+      "email": "nqtrieu.dev@gmail.com"
     }
   ],
   "require": {
